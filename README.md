@@ -84,7 +84,7 @@ General Use
 
 | Command | Description |
 | ------ | ------ |
-| cd "NewsUp" | Change directories over to our repository |
+| cd "GeneMarker" | Change directories over to our repository |
 | git branch | Lists branches for you |
 | git branch "branch name" | Makes new branch |
 | git checkout "branch name" | Switch to branch |
