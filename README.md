@@ -72,3 +72,24 @@ We welcome contributions from the community, whether you're a data scientist, ge
   * Submit a pull request with a clear description of your changes and the impact on the project.
 
 GeneMarker is a collaborative effort to push the boundaries of genetic research and healthcare. Join us in unlocking the secrets of our DNA and shaping the future of medicine.
+
+## Miscellaneous Resources
+* [Team Expectations](https://docs.google.com/document/d/1_C1v-tDd2ixnT39WlPhCMk60LavjfOC1pQAE4Q4W-iU/edit?usp=sharing) for us to be successful in this AI Venture
+
+
+## GitHub Cheat Sheet
+(Thanks Emily ^-^)
+
+General Use
+
+| Command | Description |
+| ------ | ------ |
+| cd "NewsUp" | Change directories over to our repository |
+| git branch | Lists branches for you |
+| git branch "branch name" | Makes new branch |
+| git checkout "branch name" | Switch to branch |
+| git checkout -b "branch name" | Same as 2 previous commands together |
+| git add . | Finds all changed files |
+| git commit -m "Testing123" | Commit with message |
+| git push origin "branch" | Push to branch |
+| git pull origin "branch" | Pull updates from a specific branch |
